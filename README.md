@@ -6,11 +6,11 @@ This is a tool which helps a user to perform some basic commands in linux
 **git clone https://github.com/Har1743/Linux-enlister.git** <br/>
 
 And then just run using <br/>
-**sh **
+**./linux-enlister.sh**
 
 # Screenshot
 
-![](ss.png)
+![](s.png)
 
 # Created by
 
