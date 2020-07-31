@@ -3,7 +3,7 @@ This is a tool which helps a user to perform some basic commands in linux
 
 # Usage 
 
-**git clone https://github.com/Har1743/Scapo.git** <br/>
+**git clone https://github.com/Har1743/Linux-enlister.git** <br/>
 
 And then just run using <br/>
 **sh **
