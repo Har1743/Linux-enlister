@@ -16,4 +16,9 @@ And then just run using <br/>
 
 github : [Har1743](https://github.com/Har1743)
 
+# Advantages
+
+1. It is user friendly.
+2. Reduces the user work as user does not need to enter the long commands. 
+
 
